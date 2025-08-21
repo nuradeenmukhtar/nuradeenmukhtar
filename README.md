@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nuradeenmukhtar
 - 👀 I’m interested in ...programing
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning flutter, move programming (Sui)
 - 💞️ I’m looking to collaborate on app development
 - 📫 How to reach me nuradeenmukhtar@yahoo.com
 
